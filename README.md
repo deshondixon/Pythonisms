@@ -2,25 +2,22 @@
 
 ## Overview
 
-- Python has many elegant features that can show the difference between a “programmer who uses Python” and a true “Pythonista”
+Python has many elegant features that can show the difference between a “programmer who uses Python” and a true “Pythonista”. Pythonista may be a silly word but it’s a real thing. A true pythonista is able to leverage the particular features of Python to accomplish a task in a simpler and more easy to reason about way.
 
-- Pythonista may be a silly word but it’s a real thing. A true pythonista is able to leverage the particular features of Python to accomplish a task in a simpler and more easy to reason about way.
+## [Generator](generator.py)
 
-## Iterators/Generators
+RUN:
 
-- add ability to be used in a for in loop
-- add ability to be used in a list comprehension
-- add ability to convert to a list or other collection type
+    python3 generator.py
 
-## Decorator
+## [Decorator](decorator.py)
 
-- Calculate the time spent in the function
-- Log relevant info for debugging purposes
-- Slow down the function
-- Convert the return value in some way
-- Validate some condition on the way in
+RUN:
 
-## Dunder
+    python3 decorator.py
 
-- add ability for two custom data structure to be considered equal
-- add ability for custom data structure to be considered truthy/falsy
+## [Dunder](dunder.py)
+
+RUN:
+
+    python3 dunder.py
