@@ -8,12 +8,19 @@
 
 ## Iterators/Generators
 
--
+- add ability to be used in a for in loop
+- add ability to be used in a list comprehension
+- add ability to convert to a list or other collection type
 
 ## Decorator
 
--
+- Calculate the time spent in the function
+- Log relevant info for debugging purposes
+- Slow down the function
+- Convert the return value in some way
+- Validate some condition on the way in
 
 ## Dunder
 
--
+- add ability for two custom data structure to be considered equal
+- add ability for custom data structure to be considered truthy/falsy
